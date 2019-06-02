@@ -14,9 +14,9 @@ La capture que nous utilisons ici, est une capture qui nous a été donné par D
 
 - Requête et réponse d’authentification système ouvert
 
-  ![](D:\incon\Documents\SWI\request_response1.JPG)
+  ![](images\request_response1.JPG)
 
-  ![request_response2](D:\incon\Documents\SWI\request_response2.JPG)
+  ![request_response2](images\request_response2.JPG)
 
   
 
@@ -28,13 +28,13 @@ La capture que nous utilisons ici, est une capture qui nous a été donné par D
 
   - Version TLS
 
-    ![](D:\incon\Documents\SWI\tls.JPG)
+    ![](images\tls.JPG)
 
   - Suites cryptographiques et méthodes de compression proposées par le client et acceptées par l’AP
 
-    ![](D:\incon\Documents\SWI\ciphersuite.JPG)
+    ![](images\ciphersuite.JPG)
 
-    ![](D:\incon\Documents\SWI\ciphersuiteServer.JPG)
+    ![](images\ciphersuiteServer.JPG)
 
   - Nonces
 
@@ -46,13 +46,13 @@ La capture que nous utilisons ici, est une capture qui nous a été donné par D
 
 - Phase de transmission de certificats
 
-  ![](D:\incon\Documents\SWI\certificat.JPG)
+  ![](images\certificat.JPG)
 
-  ![](D:\incon\Documents\SWI\change.JPG)
+  ![](images\change.JPG)
 
 - Authentification interne et transmission de la clé WPA (échange chiffré, vu comme « Application data »)
 
-  ![](D:\incon\Documents\SWI\authenti.JPG)
+  ![](images\authenti.JPG)
 
 - 4-way hadshake
 
@@ -64,7 +64,7 @@ La capture que nous utilisons ici, est une capture qui nous a été donné par D
 >
 > **_Réponse :_** EAP-TLS et EAP-PEAP
 >
-> ![](D:\incon\Documents\SWI\methode_co.JPG)
+> ![](images\methode_co.JPG)
 
 ---
 
@@ -72,7 +72,7 @@ La capture que nous utilisons ici, est une capture qui nous a été donné par D
 >
 > **_Réponse:_** EAP-PEAP
 >
-> ![](D:\incon\Documents\SWI\type.JPG)
+> ![](images\type.JPG)
 
 ---
 
